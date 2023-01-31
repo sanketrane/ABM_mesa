@@ -1,0 +1,9 @@
+*.pdf
+*.csv
+*.xlsx
+
+__pycache__
+venv
+env
+.pytest_cache
+.coverage
